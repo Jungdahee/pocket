@@ -5,3 +5,4 @@
 구현
  * Spring Boot
  * JPA
+ * Amazon Linux
