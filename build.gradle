@@ -31,5 +31,8 @@ repositories {
 dependencies {
     compile('org.springframework.boot:spring-boot-starter-web')
     compile('org.projectlombok:lombok') // 21.03.28 add lombok
+    compile('org.springframework.boot:spring-boot-starter-data-jpa') // 21.04.04 data-jpa
+    compile('com.h2database:h2') // 21.04.04 h2
+
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
